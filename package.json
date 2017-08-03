@@ -1,0 +1,23 @@
+{
+  "name": "xor-metrics",
+  "version": "0.0.0",
+  "description": "A simple library to calculate xor based distances",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apatryda/xor-metrics.git"
+  },
+  "keywords": [
+    "xor",
+    "hash"
+  ],
+  "author": "Artur Nerkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apatryda/xor-metrics/issues"
+  },
+  "homepage": "https://github.com/apatryda/xor-metrics#readme"
+}
